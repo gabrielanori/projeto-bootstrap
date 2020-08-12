@@ -1,0 +1,62 @@
+body {
+  background-color: lightcyan;
+}
+
+/* div, section {
+  border: 1px solid red;
+} */
+
+/* section {
+  min-height: 600px;
+} */
+
+header, main, footer {
+  /* border: 1px solid blue; */
+}
+
+header .navbar {
+  background-color: mediumslateblue;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: yellow;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: greenyellow;
+}
+
+/* BEM CSS - Block Element Modifier */
+/*
+.block { 
+  prop: value;
+}
+
+.block__element {
+  prop: value;
+ }
+
+.block__element--modifier {
+  prop: value;
+}
+
+
+.menu { ... }
+
+.menu__item { ... }
+
+.menu__item--active { ... }
+
+
+<ul class="menu">
+ <li class="menu__item menu__item--active">item 1</li>
+ <li class="menu__item">item 2</li>
+ <li class="menu__item">item 3</li>
+</ul>
+*/
+
+
